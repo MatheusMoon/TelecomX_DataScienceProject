@@ -1,4 +1,12 @@
-# 📊 TelecomX - Análise de Churn
+# 📊 TelecomX - Análise de Churn  
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-blue?logo=pandas)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Concluído-success)
+
+---
 
 ## 🎯 Propósito da Análise
 O objetivo deste projeto é compreender **quais fatores influenciam o Churn** (cancelamento de serviço) em uma empresa de telecomunicações.  
@@ -20,13 +28,13 @@ Gráfico de barras mostrando a proporção de clientes que cancelaram versus os 
 **Insight:** A taxa de Churn é significativamente maior em clientes com contrato mensal.
 
 ### 2. Correlação entre variáveis e Churn
-Mapa de calor de correlação.
+Mapa de calor de correlação.  
 **Insight:** 
 - Contratos de longo prazo estão associados a menor probabilidade de cancelamento.
 - O pagamento via "Electronic check" apresenta maior índice de Churn.
 
 ### 3. Análise por tipo de serviço
-Gráficos de barras comparando presença de serviços adicionais e Churn.
+Gráficos de barras comparando presença de serviços adicionais e Churn.  
 **Insight:** Clientes sem serviços como **OnlineSecurity** ou **TechSupport** tendem a cancelar mais.
 
 ---
